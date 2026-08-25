@@ -1,109 +1,84 @@
-# Sebastião André — Founder Portfolio
+# Sebastião André — Founder & Product Builder
 
-Building technology products from Angola for African and global markets.
+**Building AI-enabled products from Angola for African and global markets.**
 
-I work across AI, JobTech, mobility, CareTech, EdTech, data and digital product development. This public portfolio presents the ventures and products I am building while keeping proprietary source code in private repositories.
+I work at the intersection of **AI, data, digital products and real-world problem solving**. My portfolio spans JobTech, mobility, CareTech and EdTech. This public showcase presents the product vision, value proposition and development direction of my ventures while proprietary source code remains protected in private repositories.
 
-## Featured Ventures
+## Flagship Venture — TalentoReal IA
 
-### TalentoReal IA
-**AI JobTech platform for talent validation, trust, anti-fraud and intelligent matching.**
+### AI JobTech for Talent → Evidence → Trust → Matching → Opportunity
 
-TalentoReal IA is designed to improve how people, employers and training institutions connect. The product vision goes beyond a traditional job board by combining candidate evidence, guided assessment, credibility signals, fraud reduction and matching.
+**TalentoReal IA** is an intelligent employment ecosystem designed to improve how **talent, employers and training institutions** discover and trust one another.
 
-**Core value chain:** Talent → Evidence → Trust → Matching → Opportunity
+Rather than functioning as another traditional job board, TalentoReal IA is being designed around evidence and trust: helping professionals demonstrate capability, helping organizations identify stronger matches, and reducing exposure to misleading or fraudulent opportunities.
 
-**Focus areas:**
-- Talent profiles and skills evidence
+**What it is designed to deliver**
+- Professional talent profiles enriched with skills evidence
 - AI-guided assessment and interview support
-- Employer matching and shortlisting
-- Vacancy trust and anti-fraud controls
+- Credibility and trust signals
+- Vacancy validation and anti-fraud controls
+- Intelligent matching and employer shortlisting
 - Training-to-employability pathways
-- Multilingual experience
+- Multilingual experience for broader African reach
 
-**Repository:** Private
+**Current direction:** product development, validation, institutional partnerships and go-to-market preparation.
+
+**Source repository:** Private by design.
 
 ---
+
+## Venture Portfolio
 
 ### Driver Expresso
-**Mobility, logistics and transport-services ecosystem designed for Angola and scalable to the SADC region.**
+**Integrated mobility, logistics and automotive-services ecosystem for Angola, with SADC expansion potential.**
 
-Driver Expresso is being developed as a broader mobility ecosystem that can connect formal and informal transport participants under clearer rules, safer operations and better digital coordination.
+Driver Expresso is designed to digitally coordinate participants across urban and interprovincial mobility while creating a structured bridge between drivers, vehicle owners, passengers, delivery services, mobility-support businesses and institutions.
 
-**Focus areas:**
-- Urban and interprovincial mobility
-- Taxi and motorcycle transport
-- Deliveries and logistics
-- Vehicle-owner and driver participation
-- Roadside, workshop, washing and mobility support services
-- Institutional collaboration and operational traceability
+**Focus:** urban/interprovincial transport • motorcycle mobility • deliveries • fleet participation • workshops and roadside support • washing and mobility services • operational traceability.
 
-**Repository:** Private
-
----
+**Source repository:** Private.
 
 ### CareMove AI
-**AI-assisted mobility and support platform for older adults, families and caregivers.**
+**AI-assisted mobility and support ecosystem for older adults, families and caregivers.**
 
-CareMove AI is focused on assisted mobility, preventive support and remote accompaniment, with the long-term goal of improving independence, family visibility and care coordination.
+CareMove AI explores how assisted transportation, family visibility, caregiver coordination and preventive support workflows can contribute to safer, more independent living.
 
-**Focus areas:**
-- Assisted transportation
-- Family and caregiver coordination
-- Preventive support workflows
-- Remote accompaniment
-- Accessibility-oriented product design
+**Focus:** assisted mobility • caregiver/family coordination • preventive support • remote accompaniment • accessibility-oriented design.
 
-**Repository:** Private
-
----
+**Source repository:** Private.
 
 ### EduPlayTech AI
 **Adaptive cognitive-development and learning platform for children and young people.**
 
-EduPlayTech AI is not simply a collection of educational games. It is conceived as an intelligent platform for strengthening reasoning, literacy, academic ability and technology skills through interactive and adaptive learning experiences.
+EduPlayTech AI goes beyond educational games. Its purpose is to strengthen reasoning and learning capabilities through adaptive, interactive experiences, including personalized pathways for learners who may benefit from additional support.
 
-**Core capability areas:**
-- Logical reasoning and faster problem solving
-- Reading and literacy
-- Mathematics
-- Physics and chemistry
-- Languages
-- Technology, computing and electronics
-- Attention, memory and cognitive development
-- Adaptive pathways for different learning needs
-- Support for children who may require more personalized learning experiences
-- Multilingual learning journeys
+**Focus:** logical reasoning • reading and literacy • mathematics • physics • chemistry • languages • technology • computing • electronics • attention and memory • adaptive learning.
 
-**Repository:** Private
+**Source repository:** Private.
 
 ---
 
 ## Data & Research
 
 ### Luanda Cost of Living Analysis
-A public data-analysis project focused on the cost of living in Luanda and practical data storytelling.
+A public data-analysis project focused on cost-of-living evidence, analysis and practical data storytelling in Luanda.
 
-**Repository:** Public
+**Repository:** Public.
 
 ---
 
-## Product Philosophy
+## How I Build
 
-The common thread across these ventures is the use of technology to solve practical problems with measurable human value: access to opportunity, safer mobility, better care, stronger learning and better decisions.
+Across these ventures, the common principle is simple: **technology should solve a real problem and create measurable human value.**
 
-My product approach emphasizes:
-- Real-world problem solving
-- Human-centered design
-- Responsible use of AI
-- Trust, evidence and transparency
-- African-market relevance with global scalability
-- Building working products, not only concepts
+My product approach emphasizes **human-centered design, responsible AI, evidence, trust, data-informed decisions, African-market relevance and global scalability**.
 
-## Current Stage
+## Portfolio Status
 
-The portfolio includes products at different stages of development, validation and go-to-market preparation. Proprietary implementation details and source code remain private by design.
+These products are at different stages of development, validation and go-to-market preparation. This repository intentionally acts as the **public product showcase**; proprietary architecture, credentials, operational logic and source code remain private.
 
-## Contact
+## Collaboration
 
-For co-founder, investment, partnership or institutional conversations, please contact me through my GitHub profile or professional channels.
+I am open to conversations with **co-founders, investors, technical collaborators, companies, universities, training institutions and strategic partners** where there is genuine alignment with the ventures above.
+
+For professional conversations, please use my GitHub profile and linked professional channels.
