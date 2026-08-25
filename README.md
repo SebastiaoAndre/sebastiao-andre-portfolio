@@ -21,7 +21,29 @@ Rather than functioning as another traditional job board, TalentoReal IA is bein
 - Training-to-employability pathways
 - Multilingual experience for broader African reach
 
-**Current direction:** product development, validation, institutional partnerships and go-to-market preparation.
+### Execution status
+
+**Built**
+- Flutter application and public Web experience
+- Talent / Company / Training product architecture
+- Authentication and role-aware profile routing
+- Vacancy discovery and application flow
+- Explainable matching engine with Evidence / Trust / Risk dimensions
+- PT / EN / FR support across key public and authentication surfaces
+- Release Web and Android APK builds validated by automated CI
+
+**In validation**
+- Full end-to-end journeys for the three ecosystem participants
+- Institutional/employer partner onboarding and pilot preparation
+- Product messaging, conversion and investor/co-founder readiness
+- Matching explanations, trust signals and human-review safeguards
+
+**Next**
+- Verified partner pilots and measurable user validation
+- Deeper evidence-based assessment and career-support capabilities
+- Scaled employer/training distribution and African market expansion
+
+**Current direction:** product completion, validation, institutional partnerships and go-to-market preparation.
 
 **Source repository:** Private by design.
 
@@ -76,6 +98,8 @@ My product approach emphasizes **human-centered design, responsible AI, evidence
 ## Portfolio Status
 
 These products are at different stages of development, validation and go-to-market preparation. This repository intentionally acts as the **public product showcase**; proprietary architecture, credentials, operational logic and source code remain private.
+
+Public status labels are deliberately evidence-based: **Built** means implemented and demonstrable, **In validation** means currently being tested or prepared for real-world validation, and **Next** means planned but not yet claimed as delivered.
 
 ## Collaboration
 
