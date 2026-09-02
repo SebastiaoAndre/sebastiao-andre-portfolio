@@ -2,7 +2,7 @@
 
 **Building AI-enabled products from Angola for African and global markets.**
 
-I work at the intersection of **AI, data, digital products and real-world problem solving**. My portfolio spans JobTech, mobility, CareTech and EdTech. This public showcase presents the product vision, value proposition and development direction of my ventures while proprietary source code remains protected in private repositories.
+I work at the intersection of **AI, data, digital products and real-world problem solving**. My portfolio spans JobTech, mobility, CareTech, EdTech and CivicTech. This public showcase presents the product vision, value proposition and development direction of my ventures while proprietary source code remains protected in private repositories.
 
 ## Flagship Venture — TalentoReal IA
 
@@ -50,6 +50,19 @@ Rather than functioning as another traditional job board, TalentoReal IA is bein
 ---
 
 ## Venture Portfolio
+
+### VIGORA Angola
+**Independent CivicTech infrastructure for evidence, protection and public accountability.**
+
+VIGORA Angola is being designed as a case-based civic accountability platform rather than a news feed. The product structure separates allegations from verified information, protects sensitive identities, organizes evidence, tracks institutional responses and creates an auditable public dossier for each approved case.
+
+**Focus:** protected reporting • evidence maturity E0–E4 • AI-assisted triage and verification • public case dossiers • institutional right of response • accountability metrics • official social-distribution connectors.
+
+**Safety direction:** raw evidence, sensitive identities, secrets and operational credentials remain outside the public frontend. High-risk allegations are not eligible for autonomous publication.
+
+**Current status:** architecture and Firebase-ready implementation in active development; public production deployment not yet claimed.
+
+**Source repository:** Dedicated repository pending creation; operational source is intended to remain private during the security buildout.
 
 ### Driver Expresso
 **Integrated mobility, logistics and automotive-services ecosystem for Angola, with SADC expansion potential.**
@@ -103,6 +116,6 @@ Public status labels are deliberately evidence-based: **Built** means implemente
 
 ## Collaboration
 
-I am open to conversations with **co-founders, investors, technical collaborators, companies, universities, training institutions and strategic partners** where there is genuine alignment with the ventures above.
+I am open to conversations with **co-founders, investors, technical collaborators, companies, universities, training institutions, civil-society organizations and strategic partners** where there is genuine alignment with the ventures above.
 
 For professional conversations, please use my GitHub profile and linked professional channels.
