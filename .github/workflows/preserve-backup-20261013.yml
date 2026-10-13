@@ -1,0 +1,33 @@
+name: Preserve repository backup
+on:
+  push:
+    branches: ["recovery/backup-20261013"]
+    paths: [".github/workflows/preserve-backup-20261013.yml"]
+permissions:
+  contents: read
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+      - name: Preserve all Git refs and main snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p recovery-output
+          git fetch origin '+refs/heads/*:refs/remotes/origin/*' --tags
+          git bundle create recovery-output/repository.bundle --all
+          git bundle verify recovery-output/repository.bundle
+          git archive --format=tar.gz origin/main > recovery-output/main.tar.gz
+          git show-ref > recovery-output/refs.txt
+          git log --all --format='%H %P %aI %s' > recovery-output/history.txt
+          sha256sum recovery-output/* > recovery-output/SHA256SUMS
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: repository-recovery-20261013
+          path: recovery-output/
+          retention-days: 30
+          if-no-files-found: error
